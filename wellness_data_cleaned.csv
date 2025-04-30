@@ -1,0 +1,24 @@
+duration_of_sleep_hours,level_of_physical_activity_minutes_per_day,level_of_stress_scale_1_10,bmi_category,heart_rate_bpm,systolic_bp,diastolic_bp,nutrition_intake_calories_breakdown_of_nutrients_etc,level_of_workload_scale_1_10,quality_or_frequency_of_social_interactions,activities_for_mental_health_such_as_therapy_sessions_or_meditation,environmental_aspects_such_as_weather_and_air_quality,lifestyle_decisions_such_as_drinking_and_smoking,mood_output,water_liters,steps
+7.5,30,5,normal,72,120,80,2000 calories (balanced diet),6,"good, frequent",meditation daily,"sunny, good air quality","no alcohol, no smoking",happy,2,10000
+6.8,45,3,overweight,75,118,78,2500 calories (high in carbs),7,"moderate, occasional",none,"rainy, poor air quality","occasional alcohol, no smoking",neutral,1.5,8000
+8.2,15,8,underweight,68,115,75,1800 calories (low in protein),9,"low, infrequent",therapy sessions weekly,"sunny, good air quality","no alcohol, no smoking",sad,2.5,5000
+7,60,4,normal,70,122,82,2200 calories (healthy diet),5,"very good, daily",yoga twice a week,"cloudy, moderate air quality","no alcohol, no smoking",happy,2,12000
+5.5,10,9,obese,80,130,90,3000 calories (unhealthy),10,"poor, infrequent",none,"sunny, good air quality","daily alcohol, occasional smoking",sad,1,3000
+7.8,30,2,normal,65,110,70,2100 calories (balanced diet),4,"good, frequent",meditation daily,"rainy, poor air quality","no alcohol, no smoking",neutral,2.5,9000
+6.5,45,6,overweight,78,125,85,2800 calories (high in fat),8,"moderate, occasional",none,"sunny, good air quality","occasional alcohol, no smoking",neutral,1.8,7000
+8.5,15,1,underweight,62,108,68,1700 calories (low in calories),3,"very good, daily",yoga twice a week,"cloudy, moderate air quality","no alcohol, no smoking",happy,3,6000
+6.2,60,7,normal,73,128,88,2400 calories (healthy diet),9,"low, infrequent",therapy sessions weekly,"sunny, good air quality","daily alcohol, no smoking",sad,2,11000
+5.8,10,10,obese,85,140,95,3500 calories (unhealthy),10,"poor, infrequent",none,"rainy, poor air quality","daily alcohol, heavy smoking",sad,0.5,2000
+7.2,30,3,normal,68,112,72,2050 calories (balanced diet),5,"good, frequent",meditation daily,"sunny, good air quality","no alcohol, no smoking",happy,2.2,10500
+6.6,45,4,overweight,76,120,80,2600 calories (high in carbs),7,"moderate, occasional",none,"rainy, poor air quality","occasional alcohol, no smoking",neutral,1.6,8500
+8,15,8,underweight,65,110,70,1850 calories (low in protein),9,"low, infrequent",therapy sessions weekly,"sunny, good air quality","no alcohol, no smoking",sad,2.8,5500
+7.4,60,2,normal,70,124,84,2250 calories (healthy diet),4,"very good, daily",yoga twice a week,"cloudy, moderate air quality","no alcohol, no smoking",happy,2.4,12500
+5.2,10,9,obese,82,135,95,3200 calories (unhealthy),10,"poor, infrequent",none,"sunny, good air quality","daily alcohol, occasional smoking",sad,1.2,3500
+7.6,30,1,normal,63,108,68,2100 calories (balanced diet),3,"good, frequent",meditation daily,"rainy, poor air quality","no alcohol, no smoking",neutral,2.6,9500
+6.4,45,6,overweight,79,128,88,2850 calories (high in fat),8,"moderate, occasional",none,"sunny, good air quality","occasional alcohol, no smoking",neutral,1.8,7500
+8.2,15,5,underweight,60,105,65,1750 calories (low in calories),2,"very good, daily",yoga twice a week,"cloudy, moderate air quality","no alcohol, no smoking",happy,3,6500
+6,60,7,normal,71,132,92,2450 calories (healthy diet),9,"low, infrequent",therapy sessions weekly,"sunny, good air quality","daily alcohol, no smoking",sad,2.2,11500
+5.6,10,10,obese,88,145,100,3700 calories (unhealthy),10,"poor, infrequent",none,"rainy, poor air quality","daily alcohol, heavy smoking",sad,0.8,2500
+7,30,3,normal,66,110,70,2000 calories (balanced diet),5,"good, frequent",meditation daily,"sunny, good air quality","no alcohol, no smoking",happy,2,10000
+6.8,45,4,overweight,75,118,78,2500 calories (high in carbs),7,"moderate, occasional",none,"rainy, poor air quality","occasional alcohol, no smoking",neutral,1.5,8000
+7,60,2,normal,70,122,82,2200 calories (healthy diet),4,"very good, daily",yoga twice a week,"cloudy, moderate air quality","no alcohol, no smoking",happy,2,12000
